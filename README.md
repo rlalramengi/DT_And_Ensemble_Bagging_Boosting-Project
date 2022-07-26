@@ -49,7 +49,8 @@ The detailed data dictionary is mentioned here:
 
 **9. Apply BaggingClassifier with base_estimator LogisticRegression and compute AUC/ROC score.
 
-**10.  On the basis of AUC/ROC score which one will you choose from BaggingClassifier and XGBoostClassifier and              why?What does AUC/ROC score signifies?
+**10. On the basis of AUC/ROC score which one will you choose from BaggingClassifier and XGBoostClassifier and              why?What does AUC/ROC score signifies?
 
-**11.  What is the accuracy for BaggingClassifier and XGBoostClassifier?()
+**11. What is the accuracy for BaggingClassifier and XGBoostClassifier?()
+
 # All the Best!!!
